@@ -320,7 +320,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 15523,
+      "PayloadLength": 15538,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
@@ -416,21 +416,21 @@
         "D:/Unity/Hub/Editor/2022.3.53f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "D:/Unity/Hub/Editor/2022.3.53f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "D:/Unity/Hub/Editor/2022.3.53f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/endel.nativewebsocket.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.UOS.Common.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.UOS.Encrypt.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Cinemachine.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/PackageCache/cn.unity.uos.launcher@cb355b37c2/Plugins/System.Runtime.CompilerServices.Unsafe.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/PackageCache/cn.unity.uos.launcher@cb355b37c2/Plugins/Google.Protobuf.dll",
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/AOT/Newtonsoft.Json.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/endel.nativewebsocket.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.UOS.Common.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.UOS.Encrypt.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Cinemachine.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/PackageCache/cn.unity.uos.launcher@cb355b37c2/Plugins/System.Runtime.CompilerServices.Unsafe.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/PackageCache/cn.unity.uos.launcher@cb355b37c2/Plugins/Google.Protobuf.dll",
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/AOT/Newtonsoft.Json.dll",
         "D:/Unity/Hub/Editor/2022.3.53f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/System.Buffers.dll",
         "D:/Unity/Hub/Editor/2022.3.53f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/System.Memory.dll",
         "D:/Unity/Hub/Editor/2022.3.53f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
@@ -1338,7 +1338,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Assembly-CSharp.dll"
@@ -1350,7 +1350,7 @@
       "DisplayName": "Copying endel.nativewebsocket.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/endel.nativewebsocket.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/endel.nativewebsocket.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/endel.nativewebsocket.dll"
@@ -1362,7 +1362,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1374,7 +1374,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/UnityEngine.UI.dll"
@@ -1386,7 +1386,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1398,7 +1398,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Unity.Timeline.dll"
@@ -1410,7 +1410,7 @@
       "DisplayName": "Copying Unity.UOS.Common.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.UOS.Common.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.UOS.Common.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Unity.UOS.Common.dll"
@@ -1422,7 +1422,7 @@
       "DisplayName": "Copying Unity.UOS.Encrypt.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.UOS.Encrypt.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.UOS.Encrypt.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Unity.UOS.Encrypt.dll"
@@ -1434,7 +1434,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Unity.TextMeshPro.dll"
@@ -1446,7 +1446,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1458,7 +1458,7 @@
       "DisplayName": "Copying Cinemachine.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/PlayerScriptAssemblies/Cinemachine.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/PlayerScriptAssemblies/Cinemachine.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Cinemachine.dll"
@@ -1470,7 +1470,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -1482,7 +1482,7 @@
       "DisplayName": "Copying System.Runtime.CompilerServices.Unsafe.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/PackageCache/cn.unity.uos.launcher@cb355b37c2/Plugins/System.Runtime.CompilerServices.Unsafe.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/PackageCache/cn.unity.uos.launcher@cb355b37c2/Plugins/System.Runtime.CompilerServices.Unsafe.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll"
@@ -1494,7 +1494,7 @@
       "DisplayName": "Copying Google.Protobuf.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/PackageCache/cn.unity.uos.launcher@cb355b37c2/Plugins/Google.Protobuf.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/PackageCache/cn.unity.uos.launcher@cb355b37c2/Plugins/Google.Protobuf.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Google.Protobuf.dll"
@@ -1506,7 +1506,7 @@
       "DisplayName": "Copying Newtonsoft.Json.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/AOT/Newtonsoft.Json.dll"
+        "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/AOT/Newtonsoft.Json.dll"
       ],
       "Outputs": [
         "D:/Aurora/Desktop/Exp_4_VR_16/application/exp-4_Data/Managed/Newtonsoft.Json.dll"
@@ -1793,7 +1793,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 15695,
+      "PayloadOffset": 15710,
       "PayloadLength": 20,
       "PayloadDebugContentSnippet": "DefaultCompany\nexp-4",
       "Inputs": [],
@@ -2467,6 +2467,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Player61de32d6.dag.json",
-  "PayloadsFile": "D:/Aurora/Desktop/Exp_4_VR_16/exp-41/Library/Bee/Player61de32d6.dag.payloads",
+  "PayloadsFile": "D:/Aurora/Desktop/Exp_4_VR_16/project/Library/Bee/Player61de32d6.dag.payloads",
   "RelativePathToRoot": "../.."
 }
