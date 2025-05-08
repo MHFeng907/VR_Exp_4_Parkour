@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{19708172-7783-D1D0-2A08-67026C046831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.UOS.Encrypt", "Unity.UOS.Encrypt.csproj", "{5B72656D-7DD2-04DB-DC01-3BA3622C30B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19708172-7783-D1D0-2A08-67026C046831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19708172-7783-D1D0-2A08-67026C046831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19708172-7783-D1D0-2A08-67026C046831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19708172-7783-D1D0-2A08-67026C046831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B72656D-7DD2-04DB-DC01-3BA3622C30B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B72656D-7DD2-04DB-DC01-3BA3622C30B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B72656D-7DD2-04DB-DC01-3BA3622C30B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B72656D-7DD2-04DB-DC01-3BA3622C30B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
